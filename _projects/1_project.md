@@ -3,7 +3,7 @@ layout: page
 title: Quantifying Value of a Visualization
 description: 
 img: assets/img/value-affinity.jpg
-importance: 1
+importance: 
 category: research
 related_publications: wall2018heuristic
 ---
